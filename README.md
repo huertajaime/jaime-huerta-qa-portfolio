@@ -43,9 +43,7 @@ The goal is to demonstrate my technical skills, structured approach to quality, 
 
 You can view the live version of this portfolio here:
 
-👉 **https://tu-usuario.github.io/jaime-huerta-qa-portfolio/**
-
-(Replace `tu-usuario` with your GitHub username)
+👉 **https://huertajaime.github.io/jaime-huerta-qa-portfolio/**
 
 ---
 
