@@ -109,7 +109,7 @@ a:hover {
 
 .project-media img {
   margin-top: 15px;
-  max-width: 100%;
+  max-width: 75%;
   border-radius: 8px;
 }
 
@@ -121,7 +121,7 @@ a:hover {
 }
 
 .project-media img {
-  width: 100%;
+  width: 75%;
   border-radius: 10px;
   border: 1px solid #1e293b;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
@@ -131,6 +131,7 @@ a:hover {
   transform: scale(1.02);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
 }
+
 
 
 
