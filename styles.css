@@ -113,6 +113,25 @@ a:hover {
   border-radius: 8px;
 }
 
+.project-media {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.project-media img {
+  width: 100%;
+  border-radius: 10px;
+  border: 1px solid #1e293b;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-media img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+}
+
 
 
 
