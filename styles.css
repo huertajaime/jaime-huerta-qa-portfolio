@@ -107,10 +107,14 @@ a:hover {
   line-height: 1.6;
 }
 
-.project-media img {
-  margin-top: 15px;
-  max-width: 85%;
-  border-radius: 8px;
+.project-image {
+  display: block;
+  margin: 15px auto;
+  border-radius: 10px;
+  border: 1px solid #1e293b;
+  max-width: 100%;
+  height: auto;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .project-media {
@@ -120,16 +124,20 @@ a:hover {
   margin-top: 20px;
 }
 
-.project-media img {
-  width: 85%;
-  border-radius: 10px;
-  border: 1px solid #1e293b;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
 .project-media img:hover {
   transform: scale(1.02);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+}
+/* Imagen dashboard (más grande) */
+.dashboard-img {
+  width: 90%;
+  max-width: 900px;
+}
+
+/* Imagen lista de comprobación (más pequeña) */
+.checklist-img {
+  width: 60%;
+  max-width: 500px;
 }
 .language-switch {
   position: absolute;
@@ -150,6 +158,7 @@ a:hover {
 .language-switch button:hover {
   background: #334155;
 }
+
 
 
 
