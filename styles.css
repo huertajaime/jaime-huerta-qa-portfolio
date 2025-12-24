@@ -136,7 +136,7 @@ a:hover {
 
 /* Imagen lista de comprobación (más pequeña) */
 .checklist-img {
-  width: 80%;
+  width: 100%;
   max-width: 500px;
 }
 .language-switch {
@@ -158,6 +158,7 @@ a:hover {
 .language-switch button:hover {
   background: #334155;
 }
+
 
 
 
