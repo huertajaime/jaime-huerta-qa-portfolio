@@ -131,6 +131,26 @@ a:hover {
   transform: scale(1.02);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
 }
+.language-switch {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.language-switch button {
+  background: transparent;
+  border: 1px solid #64748b;
+  color: #e5e7eb;
+  padding: 6px 12px;
+  margin-left: 6px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.language-switch button:hover {
+  background: #334155;
+}
+
 
 
 
