@@ -13,16 +13,26 @@
 
   <header class="hero">
   <img src="techsupPic4.jpg" alt="Jaime Huerta" class="profile-photo">
-    <h1>Jaime Huerta</h1>
-    <h2>QA Engineer | Web, Mobile & API Testing | Automation & Data Validation | IT Infraestructure Engineer</h2>
+<div class="language-switch">
+  <button onclick="setLanguage('en')">EN</button>
+  <button onclick="setLanguage('es')">ES</button>
+</div>
+    <h1> data-en="Jaime Huerta" data-es="Jaime Huerta" </h1>
+    <h2>
+    data-en="QA Engineer | Web, Mobile & API Testing | Automation & Data Validation | IT Infraestructure Engineer"
+    data-es="Ingeniero QA | Pruebas Web, Móvil y API | Automatización y Validación de Datos" | Ingeniero de Infraestructura>
+    </h2>
   </header>
 
   <section id="about">
     <h3>About</h3>
     <p>
-      QA Engineer with hands-on experience across web, mobile, backend, and data layers.
+      data-en="QA Engineer with hands-on experience across web, mobile, backend, and data layers.
       I specialize in manual and automated testing, API validation, and production data analysis,
-      helping teams deliver stable, scalable, and reliable software.
+      helping teams deliver stable, scalable, and reliable software."
+      data-es="Ingeniero QA con experiencia práctica en pruebas web, móviles, backend y capas de datos.
+      Me especializo en pruebas manuales y automatizadas, validacion de API's, y analisis de datos de produccion,
+      ayudando equipos la entrega de software confiable, estable y escalable. ">
     </p>
   </section>
 
@@ -134,11 +144,23 @@
     <p>GitHub: github.com/huertajaime</p>
   </section>
 
+  <script>
+  function setLanguage(lang) {
+    document.querySelectorAll('[data-en]').forEach(el => {
+      el.textContent = el.getAttribute(`data-${lang}`);
+    });
+  }
+
+  // Default language
+  setLanguage('en');
+</script>
+
 </body>
 
 
 
 </html>
+
 
 
 
