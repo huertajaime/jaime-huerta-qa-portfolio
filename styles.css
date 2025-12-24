@@ -130,13 +130,13 @@ a:hover {
 }
 /* Imagen dashboard (más grande) */
 .dashboard-img {
-  width: 75%;
+  width: 55%;
   max-width: 900px;
 }
 
 /* Imagen lista de comprobación (más pequeña) */
 .checklist-img {
-  width: 100%;
+  width: 150%;
   max-width: 500px;
 }
 .language-switch {
@@ -158,4 +158,5 @@ a:hover {
 .language-switch button:hover {
   background: #334155;
 }
+
 
