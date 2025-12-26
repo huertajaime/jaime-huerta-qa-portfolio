@@ -1,0 +1,32 @@
+let content = {};
+
+fetch("content.json")
+  .then(res => res.json())
+  .then(data => {
+    content = data;
+    setLanguage("en");
+  });
+
+function setLanguage(lang) {
+  document.getElementById("name").textContent = content[lang].name;
+  document.getElementById("title").textContent = content[lang].title;
+  document.getElementById("about-title").textContent = content[lang].aboutTitle;
+  document.getElementById("about-text").textContent = content[lang].aboutText;
+  document.getElementById("projects-title").textContent = content[lang].projectsTitle;
+
+  document.getElementById("ur-title").textContent = content[lang].urTitle;
+  document.getElementById("ur-context").textContent = content[lang].urContext;
+
+  document.getElementById("ug-title").textContent = content[lang].ugTitle;
+  document.getElementById("ug-context").textContent = content[lang].ugContext;
+}
+
+/* Modal logic */
+function openModal(img) {
+  document.getElementById("imageModal").style.display = "block";
+  document.getElementById("modalImg").src = img.src;
+}
+
+function closeModal() {
+  document.getElementById("imageModal").style.display = "none";
+}
