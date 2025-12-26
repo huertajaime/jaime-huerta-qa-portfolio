@@ -1,6 +1,6 @@
 let content = {};
 
-fetch("content.json")
+fetch('content.json')
   .then(res => res.json())
   .then(data => {
     content = data;
@@ -30,3 +30,4 @@ function openModal(img) {
 function closeModal() {
   document.getElementById("imageModal").style.display = "none";
 }
+
