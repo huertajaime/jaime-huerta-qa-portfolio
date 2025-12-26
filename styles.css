@@ -133,9 +133,18 @@ a:hover {
   width: 55%;
   max-width: 900px;
 }
+.UGdashboard-img {
+  width: 55%;
+  max-width: 900px;
+}
 
 /* Imagen lista de comprobación (más pequeña) */
 .checklist-img {
+  width: 80%;
+  max-width: 500px;
+}
+/* Imagen lista de comprobación (más pequeña) */
+.UGchecklist-img {
   width: 80%;
   max-width: 500px;
 }
@@ -158,6 +167,7 @@ a:hover {
 .language-switch button:hover {
   background: #334155;
 }
+
 
 
 
