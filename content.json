@@ -2,9 +2,9 @@
   "en": {
     "name": "Jaime Huerta",
     "title": "QA Engineer | Web, Mobile & API Testing | Automation & Data Validation",
-    "aboutTitle": "About Me",
-    "aboutText": "QA Engineer with hands-on experience across web, mobile, backend, and data layers. I specialize in manual and automated testing, API validation, and production data analysis.",
-    "projectsTitle": "Projects",
+    "about-title": "About Me",
+    "about-text": "QA Engineer with hands-on experience across web, mobile, backend, and data layers. I specialize in manual and automated testing, API validation, and production data analysis.",
+    "projects-title": "Projects",
     "urTitle": "Urban Routes – Web Transportation Platform",
     "urContext": "Validation of routing logic, pricing calculations, usability, and data integrity across multiple user flows.",
     "ugTitle": "Urban Grocers – Data Validation & Test Design",
@@ -22,3 +22,4 @@
     "ugContext": "Diseño y ejecución de casos de prueba enfocados en validación de datos backend."
   }
 }
+
