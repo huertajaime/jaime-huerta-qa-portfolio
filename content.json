@@ -8,7 +8,7 @@
     "urTitle": "Urban Routes – Web Transportation Platform",
     "urContext": "Validation of routing logic, pricing calculations, usability, and data integrity across multiple user flows.",
     "ugTitle": "Urban Grocers – Data Validation & Test Design",
-    "ugContext": "Design and execution of test cases for backend data validation, ensuring accuracy and consistency."
+    "ugContext": "Design and execution of test cases for backend data validation, ensuring accuracy and consistency.",
 	"skillsTitle": "Skills",
     "skillsList": "Manual Testing, Regression, API Testing, Python, Selenium, Postman, SQL, Linux, Git, Jira"
   },
@@ -21,8 +21,9 @@
     "urTitle": "Urban Routes – Plataforma Web de Transporte",
     "urContext": "Validación de lógica de rutas, cálculos de tarifas, usabilidad e integridad de datos.",
     "ugTitle": "Urban Grocers – Validación de Datos y Casos de Prueba",
-    "ugContext": "Diseño y ejecución de casos de prueba enfocados en validación de datos backend."
+    "ugContext": "Diseño y ejecución de casos de prueba enfocados en validación de datos backend.",
 	"skillsTitle": "Habilidades",
     "skillsList": "Pruebas manuales, regresión, pruebas de API, Python, Selenium, Postman, SQL, Linux, Git, Jira"
   }
 }
+
