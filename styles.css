@@ -131,11 +131,11 @@ a:hover {
 /* Imagen dashboard (más grande) */
 .dashboard-img {
   width: 75%;
-  max-width: 700px;
+  max-width: 550px;
 }
 .UGdashboard-img {
   width: 75%;
-  max-width: 700px;
+  max-width: 550px;
 }
 
 /* Imagen lista de comprobación (más pequeña) */
@@ -207,6 +207,7 @@ a:hover {
     max-height: 80%;
   }
 }
+
 
 
 
