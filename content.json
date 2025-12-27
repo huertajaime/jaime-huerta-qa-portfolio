@@ -9,6 +9,12 @@
     "urContext": "Validation of routing logic, pricing calculations, usability, and data integrity across multiple user flows.",
     "ugTitle": "Urban Grocers – Data Validation & Test Design",
     "ugContext": "Design and execution of test cases for backend data validation, ensuring accuracy and consistency."
+    "skills_title": "Skills",
+    "skills_list": "Manual Testing, Regression Testing, API Testing, Python, Selenium, Postman, SQL, Linux, Git, Jira",
+    "contact_title": "Contact",
+    "contact_email": "Email: huerta.jaime@gmail.com",
+    "contact_linkedin": "LinkedIn: linkedin.com/in/huerta-jaime",
+    "contact_github": "GitHub: github.com/huertajaime"
   },
   "es": {
     "name": "Jaime Huerta",
@@ -20,7 +26,14 @@
     "urContext": "Validación de lógica de rutas, cálculos de tarifas, usabilidad e integridad de datos.",
     "ugTitle": "Urban Grocers – Validación de Datos y Casos de Prueba",
     "ugContext": "Diseño y ejecución de casos de prueba enfocados en validación de datos backend."
+    "skills_title": "Habilidades",
+    "skills_list": "Pruebas manuales, pruebas de regresión, pruebas de API, Python, Selenium, Postman, SQL, Linux, Git, Jira",
+    "contact_title": "Contacto",
+    "contact_email": "Correo: huerta.jaime@gmail.com",
+    "contact_linkedin": "LinkedIn: linkedin.com/in/huerta-jaime",
+    "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
