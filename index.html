@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jaime Huerta | QA Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header class="hero">
+  <div class="language-switch">
+    <button onclick="setLanguage('en')">EN</button>
+    <button onclick="setLanguage('es')">ES</button>
+  </div>
+
+  <img src="assets/images/techsupPic4.jpg" alt="Jaime Huerta" class="profile-photo">
+
+  <h1 id="name"></h1>
+  <h2 id="title"></h2>
+</header>
+
+<section id="about">
+  <h3 id="about-title"></h3>
+  <p id="about-text"></p>
+</section>
+
+<section id="projects">
+  <h3 id="projects-title"></h3>
+
+  <div class="project">
+    <h4 id="ur-title"></h4>
+    <p id="ur-context"></p>
+
+    <div class="project-media">
+      <img src="assets/images/urban-routes-dashboard.png" alt="Urban Routes Dashboard Screenshot" class="project-media dashboard-img" onclick="openModal(this)">
+      <img src="assets/images/listacomprobacionURoutes.png" alt="Urban Routes lista comprobacion" class= "project-media checklist-img"onclick="openModal(this)">
+    </div>
+  </div>
+
+  <div class="project">
+    <h4 id="ug-title"></h4>
+    <p id="ug-context"></p>
+
+    <div class="project-media">
+      <img src="assets/images/urban-grocers-data2.png" alt="Urban Grocers Dashboard" class="project-media UGdashboard-img" onclick="openModal(this)">
+      <img src="assets/images/casosdepruebaUGrocers.png" alt="urban-grocers casos de prueba" class="project-media UGchecklist-img" onclick="openModal(this)">
+    </div>
+  </div>
+</section>
+
+<section id="skills">
+  <h3 data-key="skills_title"></h3>
+  <p data-key="skills_list"></p>
+</section>
+
+<section id="contact">
+  <h3 data-key="contact_title"></h3>
+  <p data-key="contact_email"></p>
+  <p data-key="contact_linkedin"></p>
+  <p data-key="contact_github"></p>
+</section>
+
+<!-- Modal -->
+<div id="imageModal" class="modal" onclick="closeModal()">
+  <span class="modal-close">&times;</span>
+  <img class="modal-content" id="modalImg">
+</div>
+
+<script src="lang.js"></script>
+</body>
+</html>
