@@ -31,7 +31,7 @@
     "title": "Ingeniero QA | Pruebas Web, Móvil y API | Automatización y Validación de Datos | Ingeniero de Infraestructura",
     
 	"aboutTitle": "Acerca de mi",
-    "aboutText": "Ingeniero QA con experiencia práctica en pruebas web, móviles, backend y capas de datos. Me especializo en pruebas manuales y automatizadas, validación de API's, y analisis de datos de produccion ayudando equipos a la entrega de software confiable, estable y escalable.",
+    "aboutText": "Ingeniero QA con experiencia práctica en pruebas web, móviles, backend y capas de datos. Me especializo en pruebas manuales y automatizadas, validación de APIs, y analisis de datos de produccion ayudando equipos a la entrega de software confiable, estable y escalable.",
     
 	"projectsTitle": "Proyectos",
     "urTitle": "Urban Routes – Plataforma Web de Transporte",
@@ -46,7 +46,7 @@
 	  "expDescription2": "Manejo de Servidores Windows/Linux, Active Directory, virtualizacion e infraestructura empresarial",
 	  
 	"skillsTitle": "Habilidades",
-    "skillsList": "Pruebas manuales, regresión, pruebas de API, Python, Selenium, Postman, SQL, Linux, Git, Jira",
+    "skillsList": "Pruebas manuales, regresión, pruebas de APIs, Python, Selenium, Postman, SQL, Linux, Git, Jira",
 	
 	"contact_title": "Contacto",
     "contact_email": "Correo: huerta.jaime@gmail.com",
@@ -54,6 +54,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
