@@ -8,9 +8,9 @@
     
 	"projectsTitle": "Projects",
     "urTitle": "Urban Routes – Web Transportation Platform",
-    "urContext": "Validation of routing logic, pricing calculations, usability, and data integrity across multiple user flows.",
+    "urContext": "Urban Routes is a web-based transportation platform designed to allow users to request rides, calculate routes, and manage trip details in real time. The objective of this project was to validate the functional stability, usability, and data integrity of the application before release.",
     "ugTitle": "Urban Grocers – Data Validation & Test Design",
-    "ugContext": "Design and execution of test cases for backend data validation, ensuring accuracy and consistency.", 
+    "ugContext": "Urban Grocers is an online grocery delivery platform that processes customer orders, inventory data, and delivery schedules. The goal of this project was to ensure data accuracy across the backend systems and verify that business rules were correctly implemented", 
 
     "experienceTitle": "experience",
 	 "expTitle1" : "QA Engineer — Urban Projects",
@@ -35,9 +35,9 @@
     
 	"projectsTitle": "Proyectos",
     "urTitle": "Urban Routes – Plataforma Web de Transporte",
-    "urContext": "Validación de lógica de rutas, cálculos de tarifas, usabilidad e integridad de datos.",
+    "urContext": "Urban Routes es una plataforma de transporte web diseñada que permite a usuarios solicitar viajes, calcular rutas y gestionar los detalles en tiempo real. El objetivo de este proyecto fue validar la estabilidad funcional, la usabilidad y la integridad de los datos de la aplicación antes de su lanzamiento.",
     "ugTitle": "Urban Grocers – Validación de Datos y Casos de Prueba",
-    "ugContext": "Diseño y ejecución de casos de prueba enfocados en validación de datos backend.",
+    "ugContext": "Urban Grocers es una plataforma de entrega de comestibles en línea que procesa pedidos de clientes, datos de inventario y horarios de entrega. El objetivo de este proyecto era garantizar la precisión de los datos en todos los sistemas administrativos y verificar que las reglas de negocio se implementaran correctamente.",
 
     "experienceTitle": "Experiencia",
 	 "expTitle1" : "QA Engineer — Proyectos para Urban",
@@ -54,6 +54,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
