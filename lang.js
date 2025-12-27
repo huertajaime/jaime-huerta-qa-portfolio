@@ -8,17 +8,12 @@ fetch("content.json")
   });
 
 function setLanguage(lang) {
-  document.getElementById("name").textContent = content[lang].name;
-  document.getElementById("title").textContent = content[lang].title;
-  document.getElementById("about-title").textContent = content[lang].aboutTitle;
-  document.getElementById("about-text").textContent = content[lang].aboutText;
-  document.getElementById("projects-title").textContent = content[lang].projectsTitle;
-
-  document.getElementById("ur-title").textContent = content[lang].urTitle;
-  document.getElementById("ur-context").textContent = content[lang].urContext;
-
-  document.getElementById("ug-title").textContent = content[lang].ugTitle;
-  document.getElementById("ug-context").textContent = content[lang].ugContext;
+  document.querySelectorAll("[data-key]").forEach(el => {
+    const key = el.getAttribute("data-key");
+    if (content[lang][key]) {
+      el.textContent = content[lang][key];
+    }
+  });
 }
 
 /* Modal logic */
@@ -30,3 +25,4 @@ function openModal(img) {
 function closeModal() {
   document.getElementById("imageModal").style.display = "none";
 }
+
