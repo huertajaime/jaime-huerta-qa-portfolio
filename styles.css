@@ -131,22 +131,22 @@ a:hover {
 /* Imagen dashboard (más grande) */
 .dashboard-img {
   width: 75%;
-  max-width: 500px;
+  max-width: 700px;
 }
 .UGdashboard-img {
   width: 75%;
-  max-width: 500px;
+  max-width: 700px;
 }
 
 /* Imagen lista de comprobación (más pequeña) */
 .checklist-img {
   width: 100%;
-  max-width: 300px;
+  max-width: 600px;
 }
 /* Imagen lista de comprobación (más pequeña) */
 .UGchecklist-img {
   width: 100%;
-  max-width: 300px;
+  max-width: 600px;
 }
 .language-switch {
   position: absolute;
@@ -207,6 +207,7 @@ a:hover {
     max-height: 80%;
   }
 }
+
 
 
 
