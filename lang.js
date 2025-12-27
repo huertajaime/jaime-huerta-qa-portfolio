@@ -26,4 +26,16 @@ function closeModal() {
   document.getElementById("imageModal").style.display = "none";
 }
 
+fetch("content.json")
+  .then(res => {
+    console.log("STATUS:", res.status);
+    return res.json();
+  })
+  .then(data => {
+    console.log("CONTENT LOADED:", data);
+    content = data;
+    setLanguage("en");
+  })
+  .catch(err => console.error("FETCH ERROR:", err));
+
 
