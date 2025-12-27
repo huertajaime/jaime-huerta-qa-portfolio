@@ -140,13 +140,13 @@ a:hover {
 
 /* Imagen lista de comprobación (más pequeña) */
 .checklist-img {
-  width: 100%;
-  max-width: 600px;
+  width: 90%;
+  max-width: 800px;
 }
 /* Imagen lista de comprobación (más pequeña) */
 .UGchecklist-img {
-  width: 100%;
-  max-width: 600px;
+  width: 90%;
+  max-width: 800px;
 }
 .language-switch {
   position: absolute;
@@ -207,6 +207,7 @@ a:hover {
     max-height: 80%;
   }
 }
+
 
 
 
