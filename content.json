@@ -12,7 +12,7 @@
     "ugTitle": "Urban Grocers – Data Validation & Test Design",
     "ugContext": "Design and execution of test cases for backend data validation, ensuring accuracy and consistency.", 
 
-    "experienceTitle": "Experience"
+    "experienceTitle": "Experience",
 	 "expTitle1" : "QA Engineer — Urban Projects",
 	  "expDescription1": "Manual and automated testing for web, mobile, and API platforms. Regression, usability, API validation, and production data analysis.",
 	  "expTitle2": "IT Infrastructure Engineer — Confie Holding Co.",
@@ -39,7 +39,7 @@
     "ugTitle": "Urban Grocers – Validación de Datos y Casos de Prueba",
     "ugContext": "Diseño y ejecución de casos de prueba enfocados en validación de datos backend.",
 
-    "experienceTitle": "Experience"
+    "experienceTitle": "Experiencia",
 	 "expTitle1" : "QA Engineer — Proyectos para Urban",
 	  "expDescription1": "Manejo de Servidores Windows/Linux, Active Directory, virtualizacion e infraestructura empresarial",
 	  "expTitle2": "Ingeniero de Infraestructura en TI — Confie Holding Co.",
@@ -54,5 +54,6 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
