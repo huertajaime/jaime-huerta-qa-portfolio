@@ -1,7 +1,7 @@
 {
   "en": {
     "name": "Jaime Huerta",
-    "title": "QA Engineer | Web, Mobile & API Testing | Automation & Data Validation | IT Infraestructure Engineer",
+    "title": "QA Engineer | Web, Mobile & API Testing | Automation & Data Validation | IT Infrastructure Engineer",
    
 	"aboutTitle": "About Me",
     "aboutText": "QA Engineer with hands-on experience across web, mobile, backend, and data layers. I specialize in manual and automated testing, API validation, and production data analysis, helping teams deliver stable, scalable, and reliable software.",
@@ -12,7 +12,7 @@
     "ugTitle": "Urban Grocers – Data Validation & Test Design",
     "ugContext": "Design and execution of test cases for backend data validation, ensuring accuracy and consistency.", 
 
-    "experienceTitle": "Experience",
+    "experienceTitle": "experience",
 	 "expTitle1" : "QA Engineer — Urban Projects",
 	  "expDescription1": "Manual and automated testing for web, mobile, and API platforms. Regression, usability, API validation, and production data analysis.",
 	  "expTitle2": "IT Infrastructure Engineer — Confie Holding Co.",
@@ -31,7 +31,7 @@
     "title": "Ingeniero QA | Pruebas Web, Móvil y API | Automatización y Validación de Datos | Ingeniero de Infraestructura",
     
 	"aboutTitle": "Acerca de mi",
-    "aboutText": "Ingeniero QA con experiencia práctica en pruebas web, móviles, backend y capas de datos. Me especializo en pruebas manuales y automatizadas, validacion de API's, y analisis de datos de produccion ayudando equipos a la entrega de software confiable, estable y escalable.",
+    "aboutText": "Ingeniero QA con experiencia práctica en pruebas web, móviles, backend y capas de datos. Me especializo en pruebas manuales y automatizadas, validación de API's, y analisis de datos de produccion ayudando equipos a la entrega de software confiable, estable y escalable.",
     
 	"projectsTitle": "Proyectos",
     "urTitle": "Urban Routes – Plataforma Web de Transporte",
@@ -54,6 +54,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
