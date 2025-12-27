@@ -9,11 +9,15 @@
 	"projectsTitle": "Projects",
     "urTitle": "Urban Routes – Web Transportation Platform",
     "urContext": "Urban Routes is a web-based transportation platform designed to allow users to request rides, calculate routes, and manage trip details in real time. The objective of this project was to validate the functional stability, usability, and data integrity of the application before release.",
+    "urAnalysis": "I performed end-to-end manual testing of core user flows, including route calculation, pricing logic, and ride requests. API testing was conducted using Postman to validate request/response structures, HTTP status codes, and error handling. I also executed boundary value analysis and equivalence partitioning to ensure input validation and system robustness.",
+	"urConclusions": "The testing process identified several UI inconsistencies and API validation issues related to incorrect status codes and missing error messages. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
     "ugTitle": "Urban Grocers – Data Validation & Test Design",
     "ugContext": "Urban Grocers is an online grocery delivery platform that processes customer orders, inventory data, and delivery schedules. The goal of this project was to ensure data accuracy across the backend systems and verify that business rules were correctly implemented", 
-
-    "experienceTitle": "experience",
-	 "expTitle1" : "QA Engineer — Urban Projects",
+    "ugAnalysis": "I validated backend data using SQL endpoints to compare database records against expected business logic. API testing was performed to confirm correct data transmission between services. I also analyzed production-like datasets to identify inconsistencies, missing values, and incorrect calculations that could impact order fulfillment.",
+    "ugConclusions":"The project revealed multiple data integrity issues that could have resulted in incorrect order totals and inventory mismatches. By documenting these findings and proposing validation improvements, system accuracy and reliability were significantly improved. This project reinforced my experience in backend testing, data analysis, and SQL-based validation.",
+   
+	  "experienceTitle": "experience",
+	  "expTitle1" : "QA Engineer — Urban Projects",
 	  "expDescription1": "Manual and automated testing for web, mobile, and API platforms. Regression, usability, API validation, and production data analysis.",
 	  "expTitle2": "IT Infrastructure Engineer — Confie Holding Co.",
 	  "expDescription2": "Managed Windows/Linux servers, Active Directory, virtualization, and enterprise infrastructure.",
@@ -36,9 +40,13 @@
 	"projectsTitle": "Proyectos",
     "urTitle": "Urban Routes – Plataforma Web de Transporte",
     "urContext": "Urban Routes es una plataforma de transporte web diseñada que permite a usuarios solicitar viajes, calcular rutas y gestionar los detalles en tiempo real. El objetivo de este proyecto fue validar la estabilidad funcional, la usabilidad y la integridad de los datos de la aplicación antes de su lanzamiento.",
-    "ugTitle": "Urban Grocers – Validación de Datos y Casos de Prueba",
+    "urAnalysis":"Realicé pruebas manuales integrales de los flujos de usuario principales, incluyendo el cálculo de rutas, la lógica de precios y las solicitudes de viajes. Las pruebas de API se realizaron con Postman para validar las estructuras de solicitud/respuesta, los códigos de estado HTTP y la gestión de errores. También realicé análisis de valores límite y particionamiento de clases de equivalencia para garantizar la validación de la entrada y la robustez del sistema.",
+	"urConclusions":"El proceso de pruebas identificó varias inconsistencias en la interfaz de usuario y problemas de validación de la API relacionados con códigos de estado incorrectos y mensajes de error ausentes. Estos hallazgos ayudaron a mejorar la fiabilidad del sistema y la experiencia general del usuario. Este proyecto fortaleció mis habilidades en pruebas funcionales, validación de la API y generación de informes de defectos.",	  
+	"ugTitle": "Urban Grocers – Validación de Datos y Casos de Prueba",
     "ugContext": "Urban Grocers es una plataforma de entrega de comestibles en línea que procesa pedidos de clientes, datos de inventario y horarios de entrega. El objetivo de este proyecto era garantizar la precisión de los datos en todos los sistemas administrativos y verificar que las reglas de negocio se implementaran correctamente.",
-
+    "ugAnalysis":"Validé los datos del backend utilizando endpoints SQL para comparar los registros de la base de datos con la lógica de negocio esperada. Se realizaron pruebas de API para confirmar la correcta transmisión de datos entre servicios. También analicé conjuntos de datos similares a los de producción para identificar inconsistencias, valores faltantes y cálculos incorrectos que pudieran afectar el cumplimiento de pedidos.",
+	"ugConclusions":"El proyecto reveló múltiples problemas de integridad de datos que podrían haber resultado en totales de pedidos incorrectos y discrepancias de inventario. Al documentar estos hallazgos y proponer mejoras de validación, la precisión y la fiabilidad del sistema mejoraron significativamente. Este proyecto reforzó mi experiencia en pruebas de backend, análisis de datos y validación basada en SQL.",
+	  
     "experienceTitle": "Experiencia",
 	 "expTitle1" : "QA Engineer — Proyectos para Urban",
 	  "expDescription1": "Pruebas manuales y automatizadas, para aplicaciones web, moviles y plataformas API. Regresion, operabilidad, validacion de API's y analisis de datos de produccion.",
@@ -54,6 +62,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
