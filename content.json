@@ -45,8 +45,8 @@
 	"contact_title": "Contact",
     "contact_email": "Email: huerta.jaime@gmail.com",
     "contact_linkedin": "LinkedIn: linkedin.com/in/huerta-jaime",
-    "contact_github": "GitHub: github.com/huertajaime",
-  }
+    "contact_github": "GitHub: github.com/huertajaime"
+  },
   "es": {
     "name": "Jaime Huerta",
     "title": "Ingeniero QA | Pruebas Web, Móvil y API | Automatización y Validación de Datos | Ingeniero de Infraestructura",
@@ -95,3 +95,4 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
