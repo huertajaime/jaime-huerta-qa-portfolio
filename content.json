@@ -27,9 +27,9 @@
     "ugconclusionsTitle":"Results",
 	  "ugConclusions":"The project revealed multiple data integrity issues that could have resulted in incorrect order totals and inventory mismatches. By documenting these findings and proposing validation improvements, system accuracy and reliability were significantly improved. This project reinforced my experience in backend testing, data analysis, and SQL-based validation.",
     "ug_tools_title": "Tools & Techniques",
-      "ug_tool_1": "Postman – API validation for pricing and routing endpoints",
+      "ug_tool_1": "Postman – API Endpoint validation for adding products, and calculating delivery times and costs",
       "ug_tool_2": "SQL – Data validation and consistency checks",
-      "ug_tool_3": "Manual & Regression Testing – Core user flows and edge cases",
+      "ug_tool_3": "Test cases & Regression Testing – Core user flows and edge cases",
 		
 	  "experienceTitle": "experience",
 	  "expTitle1" : "QA Engineer — Urban Projects",
@@ -73,9 +73,9 @@
 	"ugconclusionsTitle":"Resultado",
 	  "ugConclusions":"El proyecto reveló múltiples problemas de integridad de datos que podrían haber resultado en totales de pedidos incorrectos y discrepancias de inventario. Al documentar estos hallazgos y proponer mejoras de validación, la precisión y la fiabilidad del sistema mejoraron significativamente. Este proyecto reforzó mi experiencia en pruebas de backend, análisis de datos y validación basada en SQL.",
 	"ug_tools_title": "Tools & Techniques",
-      "ug_tool_1": "Postman – Validacion de la API de endpoints para el calculo de precios y rutas",
+      "ug_tool_1": "Postman – Validacion de endpoints para agregar productos, y calculo de costos y tiempos de entrega",
       "ug_tool_2": "SQL – Validación de datos y comprobaciones de consistencia",
-      "ug_tool_3": "Pruebas manuales y de regresión: flujos de usuario principales y casos extremos",
+      "ug_tool_3": "Casos de pruebas y de regresión: flujos de usuario principales y casos extremos",
 	  
     "experienceTitle": "Experiencia",
 	 "expTitle1" : "QA Engineer — Proyectos para Urban",
@@ -92,6 +92,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
