@@ -15,7 +15,7 @@
 	"urconclusionsTitle":"Results",
 	  "urConclusions": "The testing process identified several UI inconsistencies and API validation issues related to incorrect status codes and missing error messages. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
     "ur_tools_title": "Tools & Techniques",
-    "ur_tool_1": "Chrome DevTools – Manual UI inspection of the booking form.",
+    "ur_tool_1": "Chrome DevTools – Manual UI inspection of the booking form, for specific web browser dimensions.",
     "ur_tool_2": "Equivalence Partitioning and Boundary Value Analysis – Test design techniques applied to the vehicle booking functionality.",
     "ur_tool_3": "Checklists – Used to validate the 'Payment Method' and 'Add Card' functionalities.",
     "ur_tool_4": "JIRA – Defect tracking and bug management tool.",
@@ -63,7 +63,7 @@
 	"urconclusionsTitle":"Resultado",
 	  "urConclusions":"El proceso de pruebas identificó varias inconsistencias en la interfaz de usuario y problemas de validación de la API relacionados con códigos de estado incorrectos y mensajes de error ausentes. Estos hallazgos ayudaron a mejorar la fiabilidad del sistema y la experiencia general del usuario. Este proyecto fortaleció mis habilidades en pruebas funcionales, validación de la API y generación de informes de defectos.",	  
 	"ur_tools_title": "Herramientas & Tecnicas",
-      "ur_tool_1": "Chrome DevTools – Inspección manual de la UI para el formulario de reserva.",
+      "ur_tool_1": "Chrome DevTools – Inspección manual de la UI con dimensiones especificas de pantalla para el formulario de reserva.",
       "ur_tool_2": "Partición de clases de equivalencia y Análisis de valores límite – Técnicas de diseño de pruebas para la funcion reserva de automoviles.",
       "ur_tool_3": "Listas de comprobacion - para validar las funciones 'Metodo de pago' y 'Agregar tarjeta'",
 	  "ur_tool_4": "JIRA – Herramienta de seguimiento de defectos y gestión de bugs.",
@@ -95,4 +95,5 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
