@@ -15,9 +15,9 @@
 	"urconclusionsTitle":"Results",
 	  "urConclusions": "The testing process identified several UI inconsistencies and API validation issues related to incorrect status codes and missing error messages. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
     "ur_tools_title": "Tools & Techniques",
-      "ur_tool_1": "",
-      "ur_tool_2": "",
-      "ur_tool_3": "",
+      "ur_tool_1": "Chrome DevTools – Manual UI testing and inspection of network responses.",
+      "ur_tool_2": "Equivalence Partitioning and Boundary Value Analysis – Test design techniques to optimize test coverage.",
+      "ur_tool_3": "JIRA – Defect tracking and reporting tool for managing bugs and test outcomes.",
 
 		"ugTitle": "Urban Grocers – Grocery API.",
    "ugcontextTitle":"Context",
@@ -61,9 +61,9 @@
 	"urconclusionsTitle":"Resultado",
 	  "urConclusions":"El proceso de pruebas identificó varias inconsistencias en la interfaz de usuario y problemas de validación de la API relacionados con códigos de estado incorrectos y mensajes de error ausentes. Estos hallazgos ayudaron a mejorar la fiabilidad del sistema y la experiencia general del usuario. Este proyecto fortaleció mis habilidades en pruebas funcionales, validación de la API y generación de informes de defectos.",	  
 	"ur_tools_title": "Herramientas & Tecnicas",
-      "ur_tool_1": "",
-      "ur_tool_2": "",
-      "ur_tool_3": "",
+      "ur_tool_1": "Chrome DevTools – Inspección manual de la UI y respuestas de red.",
+      "ur_tool_2": "Partición de clases de equivalencia y Análisis de valores límite – Técnicas de diseño de pruebas.",
+      "ur_tool_3": "JIRA – Herramienta de seguimiento de defectos y gestión de bugs.",
 	  
 	  "ugTitle": "Urban Grocers –  API para solicitar despensa.",
     "ugcontextTitle":"Contexto",
@@ -92,6 +92,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
