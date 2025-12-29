@@ -18,10 +18,10 @@
     "ur_tool_1": "Chrome DevTools – Manual UI inspection of the booking form.",
     "ur_tool_2": "Equivalence Partitioning and Boundary Value Analysis – Test design techniques applied to the vehicle booking functionality.",
     "ur_tool_3": "Checklists – Used to validate the 'Payment Method' and 'Add Card' functionalities.",
-    "ur_tool_4": "JIRA – Defect tracking and bug management tool."
+    "ur_tool_4": "JIRA – Defect tracking and bug management tool.",
 
 
-		"ugTitle": "Urban Grocers – Grocery API.",
+	"ugTitle": "Urban Grocers – Grocery API.",
    "ugcontextTitle":"Context",
 	  "ugContext": "Urban Grocers is an online grocery delivery platform that processes customer orders, inventory data, and delivery schedules. The goal of this project was to ensure data accuracy across the backend systems and verify that business rules were correctly implemented", 
     "uganalysisTitle":"Analysis",
@@ -95,6 +95,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
