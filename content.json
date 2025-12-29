@@ -31,7 +31,7 @@
       "ug_tool_2": "SQL – Data validation and consistency checks",
       "ug_tool_3": "Test cases & Regression Testing – Core user flows and edge cases",
 		
-	  "experienceTitle": "experience",
+	  "experienceTitle": "Experience",
 	  "expTitle1" : "QA Engineer — Urban Projects",
 	  "expDescription1": "Manual and automated testing for web, mobile, and API platforms. Regression, usability, API validation, and production data analysis.",
 	  "expTitle2": "IT Infrastructure Engineer — Confie Holding Co.",
@@ -92,6 +92,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
