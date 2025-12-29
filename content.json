@@ -8,13 +8,19 @@
     
 	"projectsTitle": "Projects",
     "urTitle": "Urban Routes – Web Transportation Platform",
-    "urContext": "Context: Urban Routes is a web-based transportation platform designed to allow users to request rides, calculate routes, and manage trip details in real time. The objective of this project was to validate the functional stability, usability, and data integrity of the application before release.",
-    "urAnalysis": "Analysis: I performed end-to-end manual testing of core user flows, including route calculation, pricing logic, and ride requests. API testing was conducted using Postman to validate request/response structures, HTTP status codes, and error handling. I also executed boundary value analysis and equivalence partitioning to ensure input validation and system robustness.",
-	"urConclusions": "Conclusions: The testing process identified several UI inconsistencies and API validation issues related to incorrect status codes and missing error messages. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
+    "urcontextTitle": "Context",
+	  "urContext": "Urban Routes is a web-based transportation platform designed to allow users to request rides, calculate routes, and manage trip details in real time. The objective of this project was to validate the functional stability, usability, and data integrity of the application before release.",
+    "uranalysisTitle":"Analysis",
+	  "urAnalysis": "I performed end-to-end manual testing of core user flows, including route calculation, pricing logic, and ride requests. API testing was conducted using Postman to validate request/response structures, HTTP status codes, and error handling. I also executed boundary value analysis and equivalence partitioning to ensure input validation and system robustness.",
+	"urconclusionsTitle":"Conclusions",
+	  "urConclusions": "The testing process identified several UI inconsistencies and API validation issues related to incorrect status codes and missing error messages. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
     "ugTitle": "Urban Grocers – Grocery API platform.",
-    "ugContext": "Context: Urban Grocers is an online grocery delivery platform that processes customer orders, inventory data, and delivery schedules. The goal of this project was to ensure data accuracy across the backend systems and verify that business rules were correctly implemented", 
-    "ugAnalysis": "Analysis: I validated backend data using SQL endpoints to compare database records against expected business logic. API testing was performed to confirm correct data transmission between services. I also analyzed production-like datasets to identify inconsistencies, missing values, and incorrect calculations that could impact order fulfillment.",
-    "ugConclusions":"Conclusions: The project revealed multiple data integrity issues that could have resulted in incorrect order totals and inventory mismatches. By documenting these findings and proposing validation improvements, system accuracy and reliability were significantly improved. This project reinforced my experience in backend testing, data analysis, and SQL-based validation.",
+   "ugcontextTitle":"Context",
+	  "ugContext": "Urban Grocers is an online grocery delivery platform that processes customer orders, inventory data, and delivery schedules. The goal of this project was to ensure data accuracy across the backend systems and verify that business rules were correctly implemented", 
+    "uganalysisTitle":"Analysis",
+	  "ugAnalysis": "I validated backend data using SQL endpoints to compare database records against expected business logic. API testing was performed to confirm correct data transmission between services. I also analyzed production-like datasets to identify inconsistencies, missing values, and incorrect calculations that could impact order fulfillment.",
+    "ugconclusionsTitle":"Conclusions",
+	  "ugConclusions":"The project revealed multiple data integrity issues that could have resulted in incorrect order totals and inventory mismatches. By documenting these findings and proposing validation improvements, system accuracy and reliability were significantly improved. This project reinforced my experience in backend testing, data analysis, and SQL-based validation.",
    
 	  "experienceTitle": "experience",
 	  "expTitle1" : "QA Engineer — Urban Projects",
@@ -62,6 +68,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
