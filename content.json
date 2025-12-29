@@ -7,14 +7,14 @@
     "aboutText": "QA Engineer with hands-on experience across web, mobile, backend, and data layers. I specialize in manual and automated testing, API validation, and production data analysis, helping teams deliver stable, scalable, and reliable software.",
     
 	"projectsTitle": "Projects",
-    "urTitle": "Urban Routes – Web Transportation Platform",
+    "urTitle": "Urban Routes – Ride rental Web Application.",
     "urcontextTitle": "Context",
 	  "urContext": "Urban Routes is a web-based transportation platform designed to allow users to request rides, calculate routes, and manage trip details in real time. The objective of this project was to validate the functional stability, usability, and data integrity of the application before release.",
     "uranalysisTitle":"Analysis",
 	  "urAnalysis": "I performed end-to-end manual testing of core user flows, including route calculation, pricing logic, and ride requests. API testing was conducted using Postman to validate request/response structures, HTTP status codes, and error handling. I also executed boundary value analysis and equivalence partitioning to ensure input validation and system robustness.",
 	"urconclusionsTitle":"Conclusions",
 	  "urConclusions": "The testing process identified several UI inconsistencies and API validation issues related to incorrect status codes and missing error messages. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
-    "ugTitle": "Urban Grocers – Grocery API platform.",
+    "ugTitle": "Urban Grocers – Grocery API.",
    "ugcontextTitle":"Context",
 	  "ugContext": "Urban Grocers is an online grocery delivery platform that processes customer orders, inventory data, and delivery schedules. The goal of this project was to ensure data accuracy across the backend systems and verify that business rules were correctly implemented", 
     "uganalysisTitle":"Analysis",
@@ -68,6 +68,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
