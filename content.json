@@ -18,7 +18,7 @@
     "ur_tool_1": "Chrome DevTools – Manual UI inspection of the booking form.",
     "ur_tool_2": "Equivalence Partitioning and Boundary Value Analysis – Test design techniques applied to the vehicle booking functionality.",
     "ur_tool_3": "Checklists – Used to validate the 'Payment Method' and 'Add Card' functionalities.",
-    "ur_tool_4": "JIRA – Defect tracking and bug management tool.",
+    "ur_tool_4": "JIRA – Defect tracking and bug management tool."
 
 
 	"ugTitle": "Urban Grocers – Grocery API.",
@@ -31,7 +31,7 @@
     "ug_tools_title": "Tools & Techniques",
       "ug_tool_1": "Postman – API Endpoint validation for adding products, and calculating delivery times and costs",
       "ug_tool_2": "SQL – Data validation and consistency checks",
-      "ug_tool_3": "Test cases & Regression Testing – Core user flows and edge cases",
+      "ug_tool_3": "Test cases & Regression Testing – Core user flows and edge cases"
 		
 	  "experienceTitle": "Experience",
 	  "expTitle1" : "QA Engineer — Urban Projects",
@@ -95,6 +95,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
