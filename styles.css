@@ -106,6 +106,14 @@ a:hover {
   max-width: 800px;
   line-height: 1.6;
 }
+.project-details h5 {
+  margin-top: 1rem;
+  font-weight: 600;
+}
+
+.project-details p {
+  margin-left: 0.5rem;
+}
 
 .project-image {
   display: block;
@@ -207,6 +215,7 @@ a:hover {
     max-height: 80%;
   }
 }
+
 
 
 
