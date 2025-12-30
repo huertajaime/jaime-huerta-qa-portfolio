@@ -59,7 +59,7 @@
     "urcontextTitle":"Contexto",
 	  "urContext": "Urban Routes es una plataforma de transporte web diseñada que permite a usuarios solicitar viajes, calcular rutas y gestionar los detalles en tiempo real. El objetivo de este proyecto fue validar la estabilidad funcional, la usabilidad y la integridad de los datos de la aplicación antes de su lanzamiento.",
     "uranalysisTitle":"Análisis",
-	  "urAnalysis":"Realicé pruebas manuales integrales de los flujos de usuario principales, incluyendo el cálculo de rutas, la lógica de precios y las solicitudes de viajes. Las pruebas de API se realizaron con Postman para validar las estructuras de solicitud/respuesta, los códigos de estado HTTP y la gestión de errores. También realicé análisis de valores límite y particionamiento de clases de equivalencia para garantizar la validación de la entrada y la robustez del sistema.",
+	  "urAnalysis":"Realicé pruebas manuales integrales de los flujos de usuario principales, incluyendo el cálculo de rutas, la lógica de precios y las solicitudes de viajes. También realicé análisis de valores límite y particionamiento de clases de equivalencia para garantizar la validación de la entrada y la robustez del sistema.",
 	"urconclusionsTitle":"Resultado",
 	  "urConclusions":"El proceso de pruebas identificó varias inconsistencias en la interfaz de usuario. Estos hallazgos ayudaron a mejorar la fiabilidad del sistema y la experiencia general del usuario. Este proyecto fortaleció mis habilidades en pruebas funcionales, validación de la API y generación de informes de defectos.",	  
 	"ur_tools_title": "Herramientas & Tecnicas",
@@ -95,6 +95,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
