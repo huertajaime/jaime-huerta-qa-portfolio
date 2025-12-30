@@ -11,9 +11,9 @@
     "urcontextTitle": "Context",
 	  "urContext": "Urban Routes is a web-based transportation platform designed to allow users to request rides, calculate routes, and manage trip details in real time. The objective of this project was to validate the functional stability, usability, and data integrity of the application before release.",
     "uranalysisTitle":"Analysis",
-	  "urAnalysis": "I performed end-to-end manual testing of core user flows, including route calculation, pricing logic, and ride requests. API testing was conducted using Postman to validate request/response structures, HTTP status codes, and error handling. I also executed boundary value analysis and equivalence partitioning to ensure input validation and system robustness.",
+	  "urAnalysis": "I performed end-to-end manual testing of core user flows, including route calculation, pricing logic, and ride requests. I also executed boundary value analysis and equivalence partitioning to ensure input validation and system robustness.",
 	"urconclusionsTitle":"Results",
-	  "urConclusions": "The testing process identified several UI inconsistencies and API validation issues related to incorrect status codes and missing error messages. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
+	  "urConclusions": "The testing process identified several UI inconsistencies. These findings helped improve system reliability and enhanced the overall user experience. This project strengthened my skills in functional testing, API validation, and defect reporting.",
     "ur_tools_title": "Tools & Techniques",
     "ur_tool_1": "Chrome DevTools – Manual UI inspection of the booking form, for specific web browser dimensions.",
     "ur_tool_2": "Equivalence Partitioning and Boundary Value Analysis – Test design techniques applied to the vehicle booking functionality.",
@@ -61,7 +61,7 @@
     "uranalysisTitle":"Análisis",
 	  "urAnalysis":"Realicé pruebas manuales integrales de los flujos de usuario principales, incluyendo el cálculo de rutas, la lógica de precios y las solicitudes de viajes. Las pruebas de API se realizaron con Postman para validar las estructuras de solicitud/respuesta, los códigos de estado HTTP y la gestión de errores. También realicé análisis de valores límite y particionamiento de clases de equivalencia para garantizar la validación de la entrada y la robustez del sistema.",
 	"urconclusionsTitle":"Resultado",
-	  "urConclusions":"El proceso de pruebas identificó varias inconsistencias en la interfaz de usuario y problemas de validación de la API relacionados con códigos de estado incorrectos y mensajes de error ausentes. Estos hallazgos ayudaron a mejorar la fiabilidad del sistema y la experiencia general del usuario. Este proyecto fortaleció mis habilidades en pruebas funcionales, validación de la API y generación de informes de defectos.",	  
+	  "urConclusions":"El proceso de pruebas identificó varias inconsistencias en la interfaz de usuario. Estos hallazgos ayudaron a mejorar la fiabilidad del sistema y la experiencia general del usuario. Este proyecto fortaleció mis habilidades en pruebas funcionales, validación de la API y generación de informes de defectos.",	  
 	"ur_tools_title": "Herramientas & Tecnicas",
       "ur_tool_1": "Chrome DevTools – Inspección manual de la UI con dimensiones especificas de pantalla para el formulario de reserva.",
       "ur_tool_2": "Partición de clases de equivalencia y Análisis de valores límite – Técnicas de diseño de pruebas para la funcion reserva de automoviles.",
@@ -95,5 +95,6 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
