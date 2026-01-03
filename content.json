@@ -4,7 +4,7 @@
     "title": "QA Engineer | Web, Mobile & API Testing | Automation & Data Validation | IT Infrastructure Engineer",
    
 	"aboutTitle": "About Me",
-    "aboutText": "QA Engineer with hands-on experience across web, mobile, backend, and data layers. I specialize in manual and automated testing, API validation, and production data analysis, helping teams deliver stable, scalable, and reliable software.",
+    "aboutText": "QA Tester with experience testing web and mobile applications, focused on functional testing, regression, UX/UI validation, and defect reporting. Hands-on experience executing test cases, checklists, and exploratory testing in simulated real-user scenarios. Strong attention to detail and clear bug documentation using Jira.",
     
 	"projectsTitle": "Projects",
     "urTitle": "Urban Routes – Ride rental Web Application.",
@@ -52,7 +52,7 @@
     "title": "Ingeniero QA | Pruebas Web, Móvil y API | Automatización y Validación de Datos | Ingeniero de Infraestructura",
     
 	"aboutTitle": "Acerca de mi",
-    "aboutText": "Ingeniero QA con experiencia práctica en pruebas web, móviles, backend y capas de datos. Me especializo en pruebas manuales y automatizadas, validación de APIs, y analisis de datos de produccion ayudando equipos a la entrega de software confiable, estable y escalable.",
+    "aboutText": "Tester QA con experiencia en pruebas de aplicaciones web y móviles, especializado en pruebas funcionales, regresión, validación de UX/UI y generación de informes de defectos. Experiencia práctica en la ejecución de casos de prueba, listas de verificación y pruebas exploratorias en escenarios simulados de usuarios reales. Gran atención al detalle y documentación clara de errores con Jira.",
     
 	"projectsTitle": "Proyectos",
     "urTitle": "Urban Routes – Aplicacion Web para solicitar viajes",
@@ -95,6 +95,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
