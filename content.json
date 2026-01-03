@@ -75,7 +75,7 @@
 	  "ugAnalysis":"Validé los datos del backend utilizando endpoints SQL para comparar los registros de la base de datos con la lógica de negocio esperada. Se realizaron pruebas de API para confirmar la correcta transmisión de datos entre servicios. También analicé conjuntos de datos similares a los de producción para identificar inconsistencias, valores faltantes y cálculos incorrectos que pudieran afectar el cumplimiento de pedidos.",
 	"ugconclusionsTitle":"Resultado",
 	  "ugConclusions":"El proyecto reveló múltiples problemas de integridad de datos que podrían haber resultado en totales de pedidos incorrectos y discrepancias de inventario. Al documentar estos hallazgos y proponer mejoras de validación, la precisión y la fiabilidad del sistema mejoraron significativamente. Este proyecto reforzó mi experiencia en pruebas de backend, análisis de datos y validación basada en SQL.",
-	"ug_tools_title": "Tools & Techniques",
+	"ug_tools_title": "Herramientas & Tecnicas",
       "ug_tool_1": "Postman – Validacion de endpoints para agregar productos, y calculo de costos y tiempos de entrega",
       "ug_tool_2": "SQL – Validación de datos y comprobaciones de consistencia",
       "ug_tool_3": "Casos de pruebas y de regresión: flujos de usuario principales y casos extremos",
@@ -95,6 +95,7 @@
     "contact_github": "GitHub: github.com/huertajaime"
   }
 }
+
 
 
 
