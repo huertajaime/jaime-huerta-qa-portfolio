@@ -152,6 +152,18 @@ a:hover {
   width: 90%;
   max-width: 800px;
 }
+.postman-img{
+  width: 90%;
+  max-width: 800px;
+}
+.Map-img{
+  width: 90%;
+  max-width: 800px
+}
+.flowchart-img{
+  width: 90%;
+  max-width: 800px
+}
 /* Imagen lista de comprobación (más pequeña) */
 .UGchecklist-img {
   width: 90%;
@@ -232,6 +244,7 @@ a:hover {
     max-height: 80%;
   }
 }
+
 
 
 
